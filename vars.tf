@@ -13,4 +13,3 @@ variable "port_num" {
 }
 variable "instance_count" {}
 variable "instance_class" {}
-variable "docdb" {}
